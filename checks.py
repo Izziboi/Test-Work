@@ -13,4 +13,4 @@ def calculated(current, voltage, time):
     '''
     powers = current * voltage
     energys = current * voltage * time
-    return powers, energys
+    return powers, energys #Returned power and energy
